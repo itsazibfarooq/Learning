@@ -1,1 +1,1 @@
-accelerate launch -m axolotl.cli.train basic_train.yml
+accelerate launch -m axolotl.cli.train config.yml
