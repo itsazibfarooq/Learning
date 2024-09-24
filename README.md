@@ -2,4 +2,6 @@
 
 `axolotl` is used to train the LLM  
 To install the environment using conda use the following command  
-`conda env create -f environment.yml`
+```  
+conda env create -f environment.yml  
+```
