@@ -1,3 +1,8 @@
+To install the environment using conda use the following command  
+```  
+conda env create -f environment.yml  
+```
+------------------------------------------
 Important things I learn about  
 
 - axolotl
